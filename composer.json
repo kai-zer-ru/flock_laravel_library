@@ -1,12 +1,12 @@
 {
-    "name": "qafeen/flock",
-    "description": "FlockOS PHP SDK",
+    "name": "kaizer666/flock_laravel_library",
+    "description": "Flock PHP library",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mohammed Mudasir",
-            "email": "hello@mudasir.m"
+            "name": "Kovalyov Maksim",
+            "email": "kaizer@kai-zer.ru"
         }
     ],
     "require": {
